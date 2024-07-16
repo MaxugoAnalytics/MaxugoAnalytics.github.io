@@ -1,8 +1,1 @@
----
-layout: about
-title: About
----
-
-## About
-
-Hi, nice to meet you.
+Data is life. As a Data Analyst, my main focus is on deriving meaningful insights to influence business decisions and predict expected outcomes. I obtained several certifications from the Coursera Data Analytics program and have applied most of my skills in e-commerce. From using Excel, SQL, R, and Python for data cleaning, validation, and exploration to using Microsoft Power BI and Tableau for visualization and presentation, I have a track record of providing predictive and pragmatic data-driven solutions to businesses. All I can say is, "Bring the data, and I will make a living by digesting, analyzing, and presenting it to you"Data is life. As a Data Analyst, my main focus is on deriving meaningful insights to influence business decisions and predict expected outcomes. I obtained several certifications from the Coursera Data Analytics program and have applied most of my skills in e-commerce. From using Excel, SQL, R, and Python for data cleaning, validation, and exploration to using Microsoft Power BI and Tableau for visualization and presentation, I have a track record of providing predictive and pragmatic data-driven solutions to businesses. All I can say is, "Bring the data, and I will make a living by digesting, analyzing, and presenting it to you"
